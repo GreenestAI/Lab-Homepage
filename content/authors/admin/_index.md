@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Sungku Heo
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Sungku
+last_name: Heo
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: Chuncheon-si, Gangwon-do, Republic of Korea
+    url: https://wwwk.kangwon.ac.kr/www/index.do
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: Environmental engineer researcher
+ in environmental modeling and environmental AI in Kangwon National University (Department of Civil and Environmental Engineering, Environmental Engineering Major), in Chuncheon-si, Republic of Korea
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Environmental Modeling
+  - Environmental AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Environmental Engineering
+      institution: Kyung Hee University(Republic of Korea)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,27 +65,20 @@ social:
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
-### About me ##
+### About us ###
 
-I am a computer physicist in soft matter and fluids at interfaces, working at
-the LIPhy institute in Grenoble, France.
+**Welcome to Greenest A.I. lab!**
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
+We pushing against boundaries 
 
-<span style="display: block; height: 8px;"></span>
-
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
-
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
-  - Data and scripts from my recent publications
+Greenest A.I. (Greenest Process and Autonomous Intelligence) Lab pioneers digital and autonomous solutions for a climate-resilient future. We push boundaries across autonomous systems, decarbonization, and circular innovation.
 
 <span style="display: block; height: 8px;"></span>
 
-### My primary outreach projects ##
+### Research keywords ###
 
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
+AI, Autonomous systems, Circular economy, Decarbonization, Decentralized system, Environmental engineering, Feasibility analysis, Green-blue Infrastructure, Nature-based solution, Optimization, Predictive maintenance, Process systems engineering, Stochastic modeling, WEFE Nexus evaluation
+
+<span style="display: block; height: 8px;"></span>
+
 
