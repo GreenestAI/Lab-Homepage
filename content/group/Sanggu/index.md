@@ -4,7 +4,7 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Sanggu Yun
-  focal_point: Smart
+  focal_point: Top
 slides: example
 summary:
 tags:
@@ -12,7 +12,7 @@ tags:
 title: Sanggu Yun
 links:
   - icon_pack: fas
-    icon: mail
+    icon: email
     name: sangzgu@kangwon.ac.kr
     url: 'mailto:sangzgu@kangwon.ac.kr'
 type: "group"

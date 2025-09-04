@@ -4,7 +4,7 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Wonjae Choi
-  focal_point: Smart
+  focal_point: Top
 slides: example
 summary:
 tags:
@@ -12,7 +12,7 @@ tags:
 title: Wonjae Choi
 links:
   - icon_pack: fas
-    icon: mail
+    icon: envelope
     name: wonjae6147@kangwon.ac.kr
     url: 'mailto:wonjae6147@kangwon.ac.kr'
 type: "group"

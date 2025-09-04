@@ -4,7 +4,7 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Seungjun Na
-  focal_point: Smart
+  focal_point: Top
 slides: example
 summary:
 tags:
@@ -12,7 +12,7 @@ tags:
 title: Seungjun Na
 links:
   - icon_pack: fas
-    icon: mail
+    icon: envelope
     name: zofldj54@kangwon.ac.kr
     url: 'mailto:zofldj54@kangwon.ac.kr'
 type: "group"

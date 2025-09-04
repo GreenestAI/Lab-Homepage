@@ -4,7 +4,7 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Taeyoon Kim
-  focal_point: Smart
+  focal_point: Top
 slides: example
 summary:
 tags:
@@ -12,7 +12,7 @@ tags:
 title: Taeyoon Kim
 links:
   - icon_pack: fas
-    icon: mail
+    icon: envelope
     name: ytk0816@naver.com
     url: 'mailto:ytk0816@naver.com'
 type: "group"

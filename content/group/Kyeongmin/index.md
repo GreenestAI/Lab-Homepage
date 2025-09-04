@@ -4,7 +4,7 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Kyeongmin Ko
-  focal_point: Smart
+  focal_point: Top
 slides: example
 summary:
 tags:
@@ -12,7 +12,7 @@ tags:
 title: Kyeongmin Ko
 links:
   - icon_pack: fas
-    icon: mail
+    icon: envelope
     name: 
     url: ''
 type: "group"
