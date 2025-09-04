@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sungku Heo
+title: Greenest A.I. Lab
 
 # Full name (for SEO)
 first_name: Sungku
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor
+role: Led by Prof. SungKu Heo
 
 # Organizations/Affiliations to show in About widget
 organizations:
