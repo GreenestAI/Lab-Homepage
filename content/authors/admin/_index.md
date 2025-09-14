@@ -65,13 +65,11 @@ social:
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
-### About us ###
+### Welcome to Greenest A.I. lab! ###
 
-**Welcome to Greenest A.I. lab!**
+**We pushing against boundaries** 
 
-We pushing against boundaries 
-
-Greenest A.I. (Greenest Process and Autonomous Intelligence) Lab pioneers digital and autonomous solutions for a climate-resilient future. We push boundaries across autonomous systems, decarbonization, and circular innovation.
+**Greenest A.I.** (Greenest Process and Autonomous Intelligence) Lab pioneers digital and autonomous solutions for a climate-resilient future. We push boundaries across autonomous systems, decarbonization, and circular innovation.
 
 <span style="display: block; height: 8px;"></span>
 

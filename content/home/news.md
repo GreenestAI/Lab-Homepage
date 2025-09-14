@@ -2,7 +2,7 @@
 active: true
 widget: portfolio
 headless: true
-weight: 20
+weight: 40
 title: News
 subtitle: ''
 content:
@@ -11,12 +11,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Job
-      tag: Job
-    - name: Personal
-      tag: Personal
-    - name: Outreach
-      tag: Outreach
+    - name: Research
+      tag: Research
+    - name: Activities
+      tag: Activities
+    - name: Team
+      tag: Team
   count: 3
   offset: 0
 design:
