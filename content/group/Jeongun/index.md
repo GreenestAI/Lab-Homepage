@@ -4,7 +4,7 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Jeongun Lee
-  focal_point: Fit
+  focal_point: Center
 slides: example
 summary:
 tags:
