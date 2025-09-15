@@ -8,7 +8,7 @@ image:
 slides: example
 summary:
 tags:
-- Master
+- Researcher
 title: Seonju Kim
 links:
   - icon_pack: fas

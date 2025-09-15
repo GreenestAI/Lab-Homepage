@@ -11,12 +11,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Professor
-      tag: Professor
-    - name: PhD Course
-      tag: Doctor
-    - name: MS Course
-      tag: Master
+    - name: Leader
+      tag: Leader
+    - name: Researcher
+      tag: Researcher
     - name: Intern
       tag: Intern
   count: 3
