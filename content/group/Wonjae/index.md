@@ -4,11 +4,11 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Wonjae Choi
-  focal_point: Top
+  focal_point: Fit
 slides: example
 summary:
 tags:
-- Personal
+- Intern
 title: Wonjae Choi
 links:
   - icon_pack: fas
@@ -19,5 +19,9 @@ type: "group"
 layout: "single"
 ---
 
-**Research topic:**  
+### Intern (Founding team) ###
+B.S Environmental engineering, Kangwon National University (Expected in Aug. 2026).
+
+**Research topic:**
+<br>
 Multimodal AI, Air quality, Spatial and temporal analysis, Scenario analysis

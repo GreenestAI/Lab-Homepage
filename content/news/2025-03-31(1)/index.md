@@ -8,7 +8,7 @@ image:
 slides: example
 summary: "Prof. SungKu Heo has a meeting on global collaboration with Imperial College London for quantum machine learning in water sector."
 tags:
-- Activities
+- Activity
 title: "Global collaboration meeting, Imperial College London"
 links: []
 type: "news"

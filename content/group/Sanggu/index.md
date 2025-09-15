@@ -4,11 +4,11 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Sanggu Yun
-  focal_point: Top
+  focal_point: Fit
 slides: example
 summary:
 tags:
-- Personal
+- Intern
 title: Sanggu Yun
 links:
   - icon_pack: fas
@@ -19,5 +19,9 @@ type: "group"
 layout: "single"
 ---
 
-**Research topic:**  
+### Intern (Class of 2025) ###
+B.S Environmental engineering, Kangwon National University (Expected in Feb. 2027).
+
+**Research topic:**
+<br>
 Energy recovery, Process modeling, Anaerobic digestion, Techno-economic analysis (TEA), Environmental impact assessment (EIA), Life-cycle assessment (LCA)

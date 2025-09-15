@@ -8,7 +8,7 @@ image:
 slides: example
 summary: "Prof. SungKu Heo invited to present ‘AI application into atmospheric environment’ at National Institute of Environmental Research (NIER)."
 tags:
-- Activities
+- Activity
 title: "Invited talk, NIER"
 links: []
 type: "news"

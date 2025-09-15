@@ -8,7 +8,7 @@ image:
 slides: example
 summary: "Prof. SungKu Heo has a meeting on global collaboration with NASA JPL for multi-scale modeling and monitoring of climate change adaptation."
 tags:
-- Activities
+- Activity
 title: "Global collaboration meeting, NASA JPL"
 links: []
 type: "news"

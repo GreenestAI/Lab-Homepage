@@ -4,11 +4,11 @@ publishDate: 2025-09-01
 external_link: ""
 image:
   caption: Seonju Kim
-  focal_point: Top
+  focal_point: Fit
 slides: example
 summary:
 tags:
-- Personal
+- Master
 title: Seonju Kim
 links:
   - icon_pack: fas
@@ -18,6 +18,9 @@ links:
 type: "group"
 layout: "single"
 ---
+### Researcher (Integrated BS/MS course) ###
+B.S Environmental engineering, Kangwon National University (Expected in Aug. 2026).
 
-**Research topic:**  
+**Research topic:**
+<br>
 AI, Process optimization, Autonomous design and process synthesis, Decarbonization

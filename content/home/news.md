@@ -13,8 +13,12 @@ content:
       tag: '*'
     - name: Research
       tag: Research
-    - name: Activities
-      tag: Activities
+    - name: Publication
+      tag: Publication
+    - name: Activity
+      tag: Activity
+    - name: Announcement
+      tag: Announcement
     - name: Team
       tag: Team
   count: 3

@@ -8,7 +8,7 @@ image:
 slides: example
 summary: "Prof. SungKu Heo invited to give a lecture on ‘Environmental issues on advanced technologies’ at Kyung Hee University."
 tags:
-- Activities
+- Activity
 title: "Invited lecture, Kyung Hee University"
 links: []
 type: "news"

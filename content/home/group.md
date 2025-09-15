@@ -7,6 +7,20 @@ title: Team
 subtitle: ''
 content:
   page_type: group
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Professor
+      tag: Professor
+    - name: PhD Course
+      tag: Doctor
+    - name: MS Course
+      tag: Master
+    - name: Intern
+      tag: Intern
+  count: 3
+  offset: 0
 design:
   columns: '5'
   # Toggle between the various page layout types.
