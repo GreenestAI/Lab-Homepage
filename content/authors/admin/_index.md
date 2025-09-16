@@ -48,7 +48,7 @@ social:
     link: mailto:sungku.heo@kangwon.ac.kr
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/GreenestAI
     display:
       header: true
   - icon: graduation-cap

@@ -11,7 +11,7 @@ headless: true
 weight: 30
 
 title: Publications
-subtitle: 'See also my [Scholar](https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl) profile'
+subtitle: 'See also my [Scholar](https://scholar.google.com/citations?hl=ko&user=Xix_ZHoAAAAJ) profile'
 
 content:
   # Filter on criteria

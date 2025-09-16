@@ -1,22 +1,19 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Workflow Status](https://github.com/simongravelle/simongravelle.github.io/actions/workflows/gh-pages.yml/badge.svg)
 
-# Academic template
+# GreenestAI Lab Homepage
 
-A simple academic template that is easy to deploy on GitHub page, and relatively
-easy to customize using css. You can find the [live](https://simongravelle.github.io/)
-version, and my resume [here](https://simongravelle.github.io/files/resume/resume-simon-gravelle.pdf).
+This is the source code for the GreenestAI Lab homepage, based on
+[A simple academic template](https://github.com/simongravelle/simongravelle.github.io).
+You can find the live version at [here](https://http://greenest-ai.kangwon.ac.kr).
+It is built using [Hugo](https://gohugo.io/) and the
+[Wowchemy](https://wowchemy.com/) theme.
 
 ## Automatic update of the publication list
 
 The list of publications is updated automatically from Google Scholar using
 the [scholar-collector](https://github.com/simongravelle/scholar-collector).
 
-## Overview
-
-[![image](static/img/Screenshot01.png)](https://simongravelle.github.io/)
-
-[![image](static/img/Screenshot02.png)](https://simongravelle.github.io/)
 
 ## Credit
 
