@@ -8,7 +8,7 @@ image:
 slides: example
 summary: "Greenest A.I. lab has launched at Kangwon National University to achieve climate neutrality."
 tags:
-- Announcement
+- 
 title: "Hello World!"
 links: []
 type: "news"

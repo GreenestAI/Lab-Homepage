@@ -45,31 +45,33 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
+    link: mailto:sungku.heo@kangwon.ac.kr
   - icon: github
     icon_pack: fab
     link: https://github.com/simongravelle
     display:
       header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
+    link: https://scholar.google.com/citations?hl=ko&user=Xix_ZHoAAAAJ
   - icon: cv
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: https://sites.google.com/view/sungku-heo
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
+
+<span style="display: block; height: 8px;"></span>
 
 ### Welcome to Greenest A.I. lab! ###
 
 **We pushing against boundaries** 
 
 **Greenest A.I.** (Greenest Process and Autonomous Intelligence) Lab pioneers digital and autonomous solutions for a climate-resilient future. We push boundaries across autonomous systems, decarbonization, and circular innovation.
+
+<span style="display: block; height: 8px;"></span>
+
+**Core values:** Faithfulness, Justice, Uprightness
 
 <span style="display: block; height: 8px;"></span>
 

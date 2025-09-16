@@ -12,7 +12,7 @@ tags:
 title: Sanggu Yun
 links:
   - icon_pack: fas
-    icon: email
+    icon: envelope
     name: sangzgu@kangwon.ac.kr
     url: 'mailto:sangzgu@kangwon.ac.kr'
 type: "group"

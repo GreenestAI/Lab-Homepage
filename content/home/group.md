@@ -7,7 +7,7 @@ title: Team
 subtitle: ''
 content:
   page_type: group
-  filter_default: 0
+  filter_default: 1
   filter_button:
     - name: All
       tag: '*'

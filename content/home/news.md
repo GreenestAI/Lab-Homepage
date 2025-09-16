@@ -7,7 +7,7 @@ title: News
 subtitle: ''
 content:
   page_type: news
-  filter_default: 0
+  filter_default: 1
   filter_button:
     - name: All
       tag: '*'
@@ -17,8 +17,6 @@ content:
       tag: Publication
     - name: Activity
       tag: Activity
-    - name: Announcement
-      tag: Announcement
     - name: Team
       tag: Team
   count: 3
