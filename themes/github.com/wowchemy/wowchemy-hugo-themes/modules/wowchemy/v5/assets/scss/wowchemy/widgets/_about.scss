@@ -35,7 +35,8 @@
 }
 
 .avatar {
-  width: 270px;
+  overflow: visible;
+  width: 375px;
   height: 270px;
   margin: 0 auto;
   object-fit: cover;
@@ -44,7 +45,7 @@
 // Use smaller avatar size in About widget on small devices.
 @include media-breakpoint-down(sm) {
   .wg-about .avatar {
-    width: 200px;
+    width: 278px;
     height: 200px;
   }
 }

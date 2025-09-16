@@ -29,15 +29,21 @@ Associate Professor, Dept. of Environmental Engineering, Kangwon National Univer
 AI, Autonomous systems, Circular economy, Decarbonization, Environmental engineering, Wastewater engineering, Process systems engineering
 
 ### Professional appointment ###
-2025 Associate professor, Dept. of Environmental Engineering, Kangwon National University, Republic of Korea
-2024-2025 Research associate, Dept. of civil and environmental engineering, Imperial College London, United Kingdom
-2024 Postdoctoral research associate, Dept. of environmental science and engineering, Kyung Hee University, Republic of Korea
-2023 Research scholar, Dept. of material science and chemical engineering, University of Southern California, United States
+**2025** Associate professor, Dept. of Environmental Engineering, Kangwon National University, Republic of Korea
+<br>
+**2024-2025** Research associate, Dept. of civil and environmental engineering, Imperial College London, United Kingdom
+<br>
+**2024** Postdoctoral research associate, Dept. of environmental science and engineering, Kyung Hee University, Republic of Korea
+<br>
+**2023** Research scholar, Dept. of material science and chemical engineering, University of Southern California, United States
+<br>
 
 ### Degree ### 
-2024 Ph.D. in Environmental engineering, Kyung Hee University, Republic of Korea. 
+**2024** Ph.D. in Environmental engineering, Kyung Hee University, Republic of Korea. 
 (Best thesis award, Advisor: Prof. ChangKyoo Yoo)
-2018 B.S. in Environmental engineering, Kyung Hee University, Republic of Korea
+<br>
+**2018** B.S. in Environmental engineering, Kyung Hee University, Republic of Korea
+<br>
 
 ### Honors ###
 **Deputy Prime Minister’s commendation (Korean government)**
