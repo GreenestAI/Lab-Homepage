@@ -9,7 +9,7 @@ slides: example
 summary: "Sunjoo has joined the Lab as integrated BS/MS student. She starts a long journey on AI-driven autonomous design and process intensification. Go Sunjoo!"
 tags:
 - Team
-title: "Welcome, Sunjoo"
+title: "Welcome, Seonju"
 links: []
 type: "news"
 layout: "single"

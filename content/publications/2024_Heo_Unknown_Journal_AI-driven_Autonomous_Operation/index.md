@@ -1,7 +1,7 @@
 ---
 title: "AI-driven Autonomous Operation and Predictive Maintenance in Environmental Process Systems towards Water Sector Decarbonization"
-date: 2024-01-01
-publishDate: 2024-01-01
+date: 2024-02-01
+publishDate: 2024-02-01
 authors: ["SungKu Heo"]
 publication_types: ["2"]
 abstract: "N/A"
