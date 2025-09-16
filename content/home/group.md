@@ -13,6 +13,8 @@ content:
       tag: '*'
     - name: Leader
       tag: Leader
+    - name: Alumni
+      tag: Alumni
     - name: Researcher
       tag: Researcher
     - name: Intern

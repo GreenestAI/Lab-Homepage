@@ -9,7 +9,7 @@ slides: example
 summary:
 tags:
 - Leader
-title: Sungku Heo
+title: SungKu Heo, Ph.D.
 links:
   - icon_pack: fas
     icon: envelope
