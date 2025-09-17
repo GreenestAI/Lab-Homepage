@@ -4,12 +4,12 @@ widget: portfolio
 headless: true
 weight: 20
 title: Research
-subtitle: ''
+subtitle: ' '
 content:
   page_type: gallery
   filter_default: 0
 design:
-  columns: '1'
+  columns: '0'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact

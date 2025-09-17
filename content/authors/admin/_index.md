@@ -63,9 +63,9 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 <span style="display: block; height: 8px;"></span>
 
-### Welcome to Greenest A.I. lab! ###
+## Welcome to Greenest A.I. lab!
 
-**We pushing against boundaries** 
+### We pushing against boundaries** 
 
 **Greenest A.I.** (Greenest Process and Autonomous Intelligence) Lab pioneers digital and autonomous solutions for a climate-resilient future. We push boundaries across autonomous systems, decarbonization, and circular innovation.
 
@@ -75,7 +75,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 <span style="display: block; height: 8px;"></span>
 
-### Research keywords ###
+### Research keywords
 
 AI, Autonomous systems, Circular economy, Decarbonization, Decentralized system, Environmental engineering, Feasibility analysis, Green-blue Infrastructure, Nature-based solution, Optimization, Predictive maintenance, Process systems engineering, Stochastic modeling, WEFE Nexus evaluation
 
