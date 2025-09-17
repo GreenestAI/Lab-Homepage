@@ -18,7 +18,7 @@ role: Led by Prof. SungKu Heo
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chuncheon-si, Gangwon-do, Republic of Korea
+  - name: Kangwon National University
     url: https://wwwk.kangwon.ac.kr/www/index.do
 
 # Short bio (displayed in user profile at end of posts)
