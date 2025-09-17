@@ -63,15 +63,15 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 <span style="display: block; height: 8px;"></span>
 
-## Welcome to Greenest A.I. lab!
+## <span style="color: #3f7e7f; font-weight: bold;">Welcome to Greenest A.I. lab!</span>
 
-### We pushing against boundaries** 
+### We push against boundaries
 
 **Greenest A.I.** (Greenest Process and Autonomous Intelligence) Lab pioneers digital and autonomous solutions for a climate-resilient future. We push boundaries across autonomous systems, decarbonization, and circular innovation.
 
 <span style="display: block; height: 8px;"></span>
 
-**Core values:** Faithfulness, Justice, Uprightness
+### Core values: Faithfulness, Justice, Uprightness
 
 <span style="display: block; height: 8px;"></span>
 

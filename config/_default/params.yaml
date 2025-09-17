@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
+    notice: '© {year} Sungku Heo, based on work by Simon Gravelle. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
