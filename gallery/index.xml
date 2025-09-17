@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Galleries | Greenest A.I. Lab</title><link>https://greenest-ai.kangwon.ac.kr/gallery.html</link><atom:link href="https://greenest-ai.kangwon.ac.kr/gallery/index.xml" rel="self" type="application/rss+xml"/><description>Galleries</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://greenest-ai.kangwon.ac.kr/media/logo.svg</url><title>Galleries</title><link>https://greenest-ai.kangwon.ac.kr/gallery.html</link></image><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/systems.html</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/systems.html</guid><description>&lt;h2 id="systems-that-interest-me">Systems that interest me&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Galleries | Greenest A.I. Lab</title><link>https://greenest-ai.kangwon.ac.kr/gallery.html</link><atom:link href="https://greenest-ai.kangwon.ac.kr/gallery/index.xml" rel="self" type="application/rss+xml"/><description>Galleries</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://greenest-ai.kangwon.ac.kr/media/logo.svg</url><title>Galleries</title><link>https://greenest-ai.kangwon.ac.kr/gallery.html</link></image><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/autonomous-.html</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/autonomous-.html</guid><description>&lt;h2 id="autonomous-ai-in-water-sector">Autonomous AI in water sector&lt;/h2>
 &lt;ul>
-&lt;li>Soft matter systems, such as polymers and proteins&lt;/li>
-&lt;li>Fluids in confined environments or near interfaces&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/methods.html</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/methods.html</guid><description>&lt;h2 id="preferred-method">Preferred method&lt;/h2>
-&lt;p>Molecular simulations, particulalry when it can be compared to experiments like neutrons or NMR.&lt;/p></description></item></channel></rss>
+&lt;li>DWaRF-X: Autonomous Design-Operation-Assessment Platform for Decentralized and Decarbonized Water Resource Recovery Facility&lt;/li>
+&lt;li>Multi-agents RL driven autonomous operation in wastewater treatment plants&lt;/li>
+&lt;li>Agentic AI-driven autonomous design of wastewater treatment process&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/optimization-.html</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/optimization-.html</guid><description>&lt;h2 id="digital-environmental-engineering">Digital environmental engineering&lt;/h2>
+&lt;ul>
+&lt;li>Softsensor AI for emerging contaminants and micropollutants&lt;/li>
+&lt;li>End-to-end AI deployment in SCADA systems&lt;/li>
+&lt;li>High-throughput evaluation of Best available techniques (BAT)&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/digitaltwin.html</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/digitaltwin.html</guid><description>&lt;h2 id="decision-optimization-for-cross-sector-decarbonization-pathways">Decision optimization for cross-sector decarbonization pathways&lt;/h2>
+&lt;ul>
+&lt;li>Techno-economic and environmental analyses of wastewater-to-hydrogen pathways&lt;/li>
+&lt;li>Big data-driven mathematical optimization for cross-sector decarbonization strategies&lt;/li>
+&lt;li>Decoupling analysis of organic waste valorisation by decentralized co-digestion facilities&lt;/li>
+&lt;/ul></description></item></channel></rss>
