@@ -10,8 +10,8 @@ summary:
 tags:
 title: 
 ---
-## Decision optimization for cross-sector decarbonization pathways
+## Digital environmental engineering
 
--	Techno-economic and environmental analyses of wastewater-to-hydrogen pathways
--	Big data-driven mathematical optimization for cross-sector decarbonization strategies 
--	Decoupling analysis of organic waste valorisation by decentralized co-digestion facilities
+-	Softsensor AI for emerging contaminants and micropollutants
+-	End-to-end AI deployment in SCADA systems 
+-	High-throughput evaluation of Best available techniques (BAT)
