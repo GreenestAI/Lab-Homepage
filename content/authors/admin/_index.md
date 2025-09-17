@@ -71,7 +71,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 <span style="display: block; height: 8px;"></span>
 
-### Core values: Faithfulness, Justice, Uprightness
+### Core values: <span style="font-weight: normal;">Faithfulness, Justice, Uprightness</span>
 
 <span style="display: block; height: 8px;"></span>
 
