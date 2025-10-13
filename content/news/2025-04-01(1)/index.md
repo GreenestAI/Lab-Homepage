@@ -6,7 +6,7 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Sunjoo has joined the Lab as integrated BS/MS student. She starts a long journey on AI-driven autonomous design and process intensification. Go Sunjoo!"
+summary: "Seonju has joined the Lab as integrated BS/MS student. She starts a long journey on AI-driven autonomous design and process intensification. Go Seonju!"
 tags:
 - Team
 title: "Welcome, Seonju"
