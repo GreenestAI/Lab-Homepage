@@ -6,7 +6,7 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "The founding team (태윤, 정운, 원재) provide the first conference presentation of our lab in KOSAE."
+summary: "The founding team (Taeyoon, Jeongun, Wonjae) provide the first conference presentation of our lab in KOSAE."
 tags:
 - Activity
 title: "We provide the first conference presentation"
