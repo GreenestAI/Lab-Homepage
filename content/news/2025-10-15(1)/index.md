@@ -1,6 +1,7 @@
 ---
 date: 2025-10-15
-publishDate: 2025-10-15
+weight: 20
+publishDate: 2025-10-15 
 external_link: ""
 image:
   caption: ""
