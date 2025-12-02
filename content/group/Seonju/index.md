@@ -27,6 +27,8 @@ AI, Process optimization, Autonomous design and process synthesis, Decarbonizati
 
 ## Poster Presentations: ##
 <br>
-  **1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발**
-    Author: <U>Seonju Kim</U>, Sungku Heo 
-    Conference: KSIEC Fall Meeting and Conference, Daegu, Koera, 2025
+** 1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발 **
+<br>
+Author: <U>Seonju Kim</U>, Sungku Heo 
+<br>
+Conference: KSIEC Fall Meeting and Conference, Daegu, Koera, 2025
