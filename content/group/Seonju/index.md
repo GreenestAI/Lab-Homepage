@@ -24,3 +24,9 @@ B.S Environmental engineering, Kangwon National University (Expected in Aug. 202
 **Research topic:**
 <br>
 AI, Process optimization, Autonomous design and process synthesis, Decarbonization
+
+## Poster Presentations: ##
+<br>
+  **1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발**
+    Author: <U>Seonju Kim</U>, Sungku Heo 
+    Conference: KSIEC Fall Meeting and Conference, Daegu, Koera, 2025
