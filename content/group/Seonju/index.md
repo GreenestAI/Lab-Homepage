@@ -25,9 +25,12 @@ B.S Environmental engineering, Kangwon National University (Expected in Aug. 202
 <br>
 AI, Process optimization, Autonomous design and process synthesis, Decarbonization
 
+<!--more-->
+
 ## Poster Presentations: ##
 <br>
-** 1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발 **
+
+**1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발**
 <br>
 Author: <U>Seonju Kim</U>, Sungku Heo 
 <br>
