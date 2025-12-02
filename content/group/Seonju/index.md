@@ -33,5 +33,5 @@ AI, Process optimization, Autonomous design and process synthesis, Decarbonizati
 <br>
 Author: <U>Seonju Kim</U>, Sungku Heo 
 <br>
-Conference: KSIEC Fall Meeting and Conference, Daegu, Koera, 2025
+Conference: KSIEC Fall Meeting and Conference, Daegu, Korea, 2025
 
