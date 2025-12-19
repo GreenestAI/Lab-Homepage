@@ -7,7 +7,7 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Prof. SungKu Heo delivered a presentation at the 2025 Fall Meeting and Conference of the Korean Society of Environmental Engineers, held on November 7, 2025, at EXCO, Daegu."
+summary: "Prof. SungKu Heo delivered a presentation at the 2025 Fall Meeting and Conference of KSIEC, held on November 7, 2025, at EXCO, Daegu."
 tags:
 - Activity
 title: "An oral presentation was delivered at the 2025 Fall Meeting of the Korean Society of Industrial and Engineering Chemistry."
