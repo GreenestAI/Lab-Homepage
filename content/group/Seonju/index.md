@@ -29,7 +29,7 @@ AI, Process optimization, Autonomous design and process synthesis, Decarbonizati
 
 ## Poster Presentations: ##
 
-**[1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발](./Poster_SJKim.pdf)**
+**[1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발](https://drive.google.com/file/d/1PtWzRDfFsCfqVeHXAH6qSWhHvORaWJNS/view)**
 <br>
 Author: <U>Seonju Kim</U>, Sungku Heo 
 <br>
