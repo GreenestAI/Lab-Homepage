@@ -15,11 +15,13 @@ content:
       tag: Leader
     - name: Researcher
       tag: Researcher
+    - name: Engineer
+      tag: Engineer
     - name: Intern
       tag: Intern
     - name: Alumni
       tag: Alumni
-  count: 3
+  count: 6
   offset: 0
 design:
   columns: '5'
