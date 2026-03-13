@@ -21,7 +21,7 @@ content:
       tag: Intern
     - name: Alumni
       tag: Alumni
-  count: 6
+  count: 3
   offset: 0
 design:
   columns: '5'

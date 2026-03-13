@@ -27,7 +27,7 @@ Ubiquitous and Distributed Systems, Human‑Centered Embedded & IoT Systems, Res
 
 <!--more-->
 
-## Education
+### Education
 - **Ajou University** 
   - B.S. in Software & Computer Engineering
   - `2022.03 - 2027.02 (Expected)`
@@ -38,7 +38,7 @@ Ubiquitous and Distributed Systems, Human‑Centered Embedded & IoT Systems, Res
   - Diploma in Software Department
   - `2017.03 - 2020.02`
 
-## Work Experience
+### Work Experience
 - **Defense Integrated Data Center** (MND)
   - Security & System Operator (Mandatory)
   - `2024.07 - 2026.02`
