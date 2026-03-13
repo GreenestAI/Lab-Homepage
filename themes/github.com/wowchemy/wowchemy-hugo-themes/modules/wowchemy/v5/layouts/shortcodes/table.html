@@ -1,36 +1,56 @@
-{{/* Table Shortcode for Wowchemy. */}}
-{{/* Load a CSV table from page dir falling back back to remote URL */}}
-{{/* Defaults to expecting a comma-separated CSV with a header row. */}}
-
-{{ $src := .Get "path" }}
+{{/* Table Shortcode for Wowchemy (Updated for Hugo 0.123+) */}}
+{{ $src := .Get "path" | default (.Get "src") }}
 {{ $delimiter := .Get "delimiter" | default "," }}
 {{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
 {{ $caption := .Get "caption" }}
 
-{{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-  {{ $src = path.Join  "content" $.Page.File.Dir $src }}
-{{ end }}
-{{ $rows := getCSV $delimiter $src }}
+{{ $rows := "" }}
 
+{{/* CSV 데이터 가져오기 */}}
+{{ if strings.HasPrefix $src "http" }}
+  {{/* 원격 URL인 경우 */}}
+  {{ with resources.GetRemote $src }}
+    {{ $rows = . | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ end }}
+{{ else }}
+  {{/* 로컬 파일인 경우 (Page Resource 우선 확인) */}}
+  {{ $resource := $.Page.Resources.GetMatch $src }}
+  {{ if $resource }}
+    {{ $rows = $resource | transform.Unmarshal (dict "delimiter" $delimiter) }}
+  {{ else }}
+    {{/* assets 폴더 확인 */}}
+    {{ with resources.Get $src }}
+      {{ $rows = . | transform.Unmarshal (dict "delimiter" $delimiter) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if $rows }}
 <table class="table">
   {{ if $useHeaderRow }}
     {{ $headerRow := index $rows 0 }}
     {{ $rows = after 1 $rows }}
-    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+    <thead>
+      <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+    </thead>
   {{ end }}
-  {{ range $rows }}
-    <tr>
-      {{ range . }}
-        {{ if (findRE "^\\d+$" .) }}
-          <td data-table-dtype="number">{{ . }}</td>
-        {{ else }}
-          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+  <tbody>
+    {{ range $rows }}
+      <tr>
+        {{ range . }}
+          {{ if (findRE "^\\d+$" .) }}
+            <td data-table-dtype="number">{{ . }}</td>
+          {{ else }}
+            <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </tr>
-  {{ end }}
+      </tr>
+    {{ end }}
+  </tbody>
   {{ if $caption }}
     <caption>{{ $caption | markdownify | emojify }}</caption>
   {{ end }}
 </table>
+{{ else }}
+  <p style="color: red;">CSV 파일을 찾을 수 없거나 형식이 잘못되었습니다: {{ $src }}</p>
+{{ end }}
