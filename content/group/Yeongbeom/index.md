@@ -30,7 +30,7 @@ Ubiquitous and Distributed Systems, Human‑Centered Embedded & IoT Systems, Res
 ### Education
 - **Ajou University** 
   - B.S. in Software & Computer Engineering
-  - `2022.03 - 2027.02 (Expected)`
+  - `2020.03 - 2027.02 (Expected)`
 - **Software Maestro**
   - 12th Trainee 
   - `2021.02 - 2022.01`
