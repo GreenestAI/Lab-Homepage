@@ -17,8 +17,8 @@ content:
       tag: Researcher
     - name: Engineer
       tag: Engineer
-    - name: Intern
-      tag: Intern
+#   - name: Intern
+#     tag: Intern
     - name: Alumni
       tag: Alumni
   count: 3
@@ -30,6 +30,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 'masonry'
   flip_alt_rows: false
 ---

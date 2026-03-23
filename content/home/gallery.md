@@ -15,6 +15,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 'showcase'
   flip_alt_rows: false
 ---
