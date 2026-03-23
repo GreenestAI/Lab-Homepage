@@ -1,6 +1,6 @@
 ---
-date: 2025-07-26
-publishDate: 2025-07-26
+date: 2025-11-01
+publishDate: 2025-11-01
 external_link: ""
 image:
   caption: ""
