@@ -56,7 +56,7 @@ social:
     link: https://scholar.google.com/citations?hl=ko&user=Xix_ZHoAAAAJ
   - icon: cv
     icon_pack: ai
-    link: https://sites.google.com/view/sungku-heo
+    link: https://drive.google.com/file/d/1fcJyDN3oj8NZL1Rl8oMGHlPH3AknD_-e/view?usp=share_link
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
