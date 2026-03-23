@@ -3,13 +3,13 @@ date: 2025-09-01
 publishDate: 2025-09-01
 external_link: ""
 image:
-  caption: Yeongbeon Song
+  caption: Yeongbeom Song
   focal_point: Center
 slides: example
 summary:
 tags:
 - Engineer
-title: Yeongbeon Song
+title: Yeongbeom Song
 links:
   - icon_pack: fas
     icon: envelope
