@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Galleries | Greenest A.I. Lab</title><link>https://greenest-ai.kangwon.ac.kr/gallery.html</link><atom:link href="https://greenest-ai.kangwon.ac.kr/gallery/index.xml" rel="self" type="application/rss+xml"/><description>Galleries</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://greenest-ai.kangwon.ac.kr/media/logo.svg</url><title>Galleries</title><link>https://greenest-ai.kangwon.ac.kr/gallery.html</link></image><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/autonomous-.html</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/autonomous-.html</guid><description>&lt;h2 id="autonomous-ai-in-water-sector">Autonomous AI in water sector&lt;/h2>
 &lt;ul>
 &lt;li>DWaRF-X: Autonomous Design-Operation-Assessment Platform for Decentralized and Decarbonized Water Resource Recovery Facility&lt;/li>
-&lt;li>Multi-agents RL driven autonomous operation in wastewater treatment plants&lt;/li>
-&lt;li>Agentic AI-driven autonomous design of wastewater treatment process&lt;/li>
+&lt;li>WWFM1: Wastewater foundation model for physical AI application&lt;/li>
+&lt;li>Agentic AI-driven autonomous design, operation, and predictive maintenance of Water Resource Recovery Facility&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/optimization-.html</link><pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/optimization-.html</guid><description>&lt;h2 id="decision-optimization-for-cross-sector-decarbonization-pathways">Decision optimization for cross-sector decarbonization pathways&lt;/h2>
 &lt;ul>
+&lt;li>Big data and AI-driven mathematical optimization for cross-sector decarbonization strategies&lt;/li>
+&lt;li>Decentralized systems design of organic wastes-to-biogas co-digestion facilities&lt;/li>
 &lt;li>Techno-economic and environmental analyses of wastewater-to-hydrogen pathways&lt;/li>
-&lt;li>Big data-driven mathematical optimization for cross-sector decarbonization strategies&lt;/li>
-&lt;li>Decoupling analysis of organic waste valorisation by decentralized co-digestion facilities&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/digitaltwin.html</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/digitaltwin.html</guid><description>&lt;h2 id="digital-environmental-engineering">Digital environmental engineering&lt;/h2>
+&lt;/ul></description></item><item><title/><link>https://greenest-ai.kangwon.ac.kr/gallery/digitaltwin.html</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://greenest-ai.kangwon.ac.kr/gallery/digitaltwin.html</guid><description>&lt;h2 id="ai-based-air-quality-toxicological-risk-and-process-safety-systems">AI-based air quality, toxicological risk, and process safety systems&lt;/h2>
 &lt;ul>
-&lt;li>Softsensor AI for emerging contaminants and micropollutants&lt;/li>
-&lt;li>End-to-end AI deployment in SCADA systems&lt;/li>
-&lt;li>High-throughput evaluation of Best available techniques (BAT)&lt;/li>
+&lt;li>AI-driven inverse modeling for atmospheric emission source identification and tracking&lt;/li>
+&lt;li>Data-centric QSAR-based molecular-level toxicological risk assessment for emerging contaminants&lt;/li>
+&lt;li>High-throughput evaluation and optimization of best available techniques (BAT)&lt;/li>
 &lt;/ul></description></item></channel></rss>
