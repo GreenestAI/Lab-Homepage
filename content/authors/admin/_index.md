@@ -3,7 +3,7 @@
 title: Greenest A.I. Lab
 
 # Full name (for SEO)
-first_name: Sungku
+first_name: SungKu
 last_name: Heo
 
 # Status emoji
@@ -22,8 +22,7 @@ organizations:
     url: https://wwwk.kangwon.ac.kr/www/index.do
 
 # Short bio (displayed in user profile at end of posts)
-bio: Environmental engineer researcher
- in environmental modeling and environmental AI in Kangwon National University (Department of Civil and Environmental Engineering, Environmental Engineering Major), in Chuncheon-si, Republic of Korea
+bio: We work for digital and autonomous solutions for a climate-resilient future, and push boundaries across autonomous systems, decarbonization, and circular innovation.
 
 # Interests to show in About widget
 interests:
@@ -77,7 +76,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### Research keywords
 
-AI, Autonomous systems, Circular economy, Decarbonization, Decentralized system, Environmental engineering, Feasibility analysis, Green-blue Infrastructure, Nature-based solution, Optimization, Predictive maintenance, Process systems engineering, Stochastic modeling, WEFE Nexus evaluation
+AI, Autonomous systems, Circular economy, Decarbonization, Decentralized system, Environmental engineering, Feasibility analysis, Green-blue Infrastructure, HSE, Nature-based solution, Optimization, Predictive maintenance, Process systems engineering, Stochastic modeling, Water-Energy-Digital Nexus
 
 <span style="display: block; height: 8px;"></span>
 

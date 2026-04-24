@@ -10,8 +10,8 @@ summary:
 tags:
 title: 
 ---
-## Digital environmental engineering
+## AI-based air quality, toxicological risk, and process safety systems
 
--	Softsensor AI for emerging contaminants and micropollutants
--	End-to-end AI deployment in SCADA systems 
--	High-throughput evaluation of Best available techniques (BAT)
+- AI-driven inverse modeling for atmospheric emission source identification and tracking  
+- Data-centric QSAR-based molecular-level toxicological risk assessment for emerging contaminants  
+- High-throughput evaluation and optimization of best available techniques (BAT)

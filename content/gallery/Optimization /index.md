@@ -12,6 +12,6 @@ title:
 ---
 ## Decision optimization for cross-sector decarbonization pathways
 
+-	Big data and AI-driven mathematical optimization for cross-sector decarbonization strategies 
+-	Decentralized systems design of organic wastes-to-biogas co-digestion facilities
 -	Techno-economic and environmental analyses of wastewater-to-hydrogen pathways
--	Big data-driven mathematical optimization for cross-sector decarbonization strategies 
--	Decoupling analysis of organic waste valorisation by decentralized co-digestion facilities
