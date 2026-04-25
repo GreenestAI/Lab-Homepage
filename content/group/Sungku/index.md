@@ -3,7 +3,7 @@ date: 2025-03-01
 publishDate: 2025-03-01
 external_link: ""
 image:
-  caption: Sungku Heo
+  caption: SungKu Heo
   focal_point: Center
 slides: example
 summary:
@@ -29,13 +29,13 @@ Associate Professor, Dept. of Environmental Engineering, Kangwon National Univer
 AI, Autonomous systems, Circular economy, Decarbonization, Environmental engineering, Wastewater engineering, Process systems engineering
 
 ### Professional appointment ###
-**2025** Associate professor, Dept. of Environmental Engineering, Kangwon National University, Republic of Korea
+**2025-Present** Associate professor, Dept. of Environmental Engineering, Kangwon National University, Republic of Korea
 <br>
-**2024-2025** Research associate, Dept. of civil and environmental engineering, Imperial College London, United Kingdom
+**2024-2025** Research associate, Dept. of civil and environmental engineering, Imperial College London, United Kingdom (Advisor: Prof. Evina Katsou)
 <br>
 **2024** Postdoctoral research associate, Dept. of environmental science and engineering, Kyung Hee University, Republic of Korea
 <br>
-**2023** Research scholar, Dept. of material science and chemical engineering, University of Southern California, United States
+**2023** Research scholar, Dept. of material science and chemical engineering, University of Southern California, United States (Advisor: Prof. Jay H. Lee)
 <br>
 
 ### Degree ### 
@@ -55,10 +55,10 @@ AI, Autonomous systems, Circular economy, Decarbonization, Environmental enginee
 **Minister of the Environment's Award (Korean government)**
 -	A global assessment of public perceptions in social media to evaluate the relationship between climate changes and natural events using big data-based machine learning techniques, Best oral presentation award, 2018 symposium of the Korean Society of Climate Change Research. (2019)
 
-**Editor’s Choice (Co-first author)**
+**Editor’s Choice**
 -	Dual-objective optimization for energy-saving and fouling mitigation in MBR plants using influent prediction and an integrated biological-physical model, Journal of Membrane Science (ISSN: 0376-7388, IF=7.183, JCR Top 3 %) (2021)
 
-**Editor’s Choice (Co-first author)**
+**Editor’s Choice**
 -	An autonomous operational trajectory searching system for an economic and environmental membrane bioreactor plant using deep reinforcement learning, Water Science and Technology (ISSN:0273-1223, SCIE), International Water Association(IWA) (2020)
 
 **Best oral presentation award**
