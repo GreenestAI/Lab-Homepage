@@ -7,10 +7,10 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Seonju Kim presented research on autonomous soft sensing system for N₂O quantification"
+summary: "Seonju Kim presented research on  N₂O Soft-Sensing Algorithm Based on Water AI-Ready Data at the 2025 Fall Meeting of KSIEC"
 tags:
 - Activity
-title: "Poster Presentation on Water AI-Based N₂O Soft-Sensing"
+title: "(Poster presentation) AI-based autonomous soft sensing system for N₂O quantification"
 links: []
 type: "news"
 layout: "single"

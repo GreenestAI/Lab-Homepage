@@ -7,13 +7,13 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Greenest A.I. participated 2025 KSEE conference at Jeju"
+summary: "Greenest A.I. participated in the conference of the Korean Society of Environmental Engineers (KSEE) held on November 20 at Shinhwa World, Jeju Island"
 tags:
 - Activity
-title: "Greenest A.I. participates KSEE"
+title: "Greenest A.I. participated 2025 KSEE conference at Jeju"
 links: []
 type: "news"
 layout: "single"
 ---
 We participated in the conference of the Korean Society of Environmental Engineers (KSEE) held on November 20 at Shinhwa World, Jeju Island.
-Prof. SungKu Heo and undergraduate student Seonju Kim attended the conference to share and discuss recent research activities related to data-driven and AI-based approaches for environmental engineering systems. Go Greenest!
+Prof. SungKu Heo and Seonju Kim attended the conference to share and discuss recent research activities related to data-driven and AI-based approaches for environmental engineering systems. Go Greenest!

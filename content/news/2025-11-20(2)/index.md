@@ -7,10 +7,10 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Prof. SungKu Heo presented 'Digital twin and trustworthy AI-based autonomous operation of wastewater treatment plant'"
+summary: "Prof. SungKu Heo presented autonomous operation of wastewater treatment plants based on digital twins: Trustworthy AI-driven optimal control and real-world validation at the conference of KSEE"
 tags:
 - Activity
-title: "Oral presentation for 'Digital twin and trustworthy AI-based autonomous operation of wastewater treatment plant'"
+title: "(Oral presentation) Digital twin and trustworthy AI-based autonomous operation of wastewater treatment plant"
 links: []
 type: "news"
 layout: "single"

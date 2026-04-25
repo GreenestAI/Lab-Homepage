@@ -7,10 +7,10 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Prof. SungKu Heo presented process systems engineering applications in the Wastewater Sector"
+summary: "Prof. SungKu Heo presented process systems engineering applications in the Wastewater Sector at at the 2025 Fall Meeting and Conference of KSIEC."
 tags:
 - Activity
-title: "An oral presentation was delivered at the 2025 Fall Meeting of KSIEC."
+title: "(Oral presentation) Process systems engineering applications in the Wastewater Sector."
 links: []
 type: "news"
 layout: "single"

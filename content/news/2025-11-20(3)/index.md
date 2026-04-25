@@ -7,10 +7,10 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Prof. SungKu Heo presented 'Nationalwide feasibility analysis on wastewater-to-hydrogen pathways'"
+summary: "rof. SungKu Heo presented Nationwide techno-economic and environmental assessment of wastewater-derived hydrogen production for the transition to a hydrogen economy at the conference of the Korean Society of Environmental Engineers (KSEE)"
 tags:
 - Activity
-title: "Greenest A.I. participates KSEE"
+title: "(Oran presentation) Nationalwide feasibility analysis on wastewater-to-hydrogen pathways"
 links: []
 type: "news"
 layout: "single"
