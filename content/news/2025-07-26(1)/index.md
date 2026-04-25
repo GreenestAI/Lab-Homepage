@@ -9,7 +9,7 @@ slides: example
 summary: "Prof. SungKu Heo has published a research paper on Multi-objective pathway selection for sustainable biorefinery process in the Energy Conversion and Management."
 tags:
 - Publication
-title: "New journal paper published (IF=10.9. JCR 1.9%)"
+title: "Multi-objective pathway selection for sustainable biorefinery process (IF=10.9. JCR 1.9%)"
 links:
   - icon_pack: fas
     icon: scroll

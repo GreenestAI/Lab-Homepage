@@ -7,7 +7,7 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Greenest A.I. participated in the conference of KSEE"
+summary: "Greenest A.I. participated 2025 KSEE conference at Jeju"
 tags:
 - Activity
 title: "Greenest A.I. participates KSEE"

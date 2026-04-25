@@ -9,7 +9,7 @@ slides: example
 summary: "Prof. SungKu Heo has published a review paper on Generative AI and LLM applications for PSE in the Korean Journal of Chemical Engineering."
 tags:
 - Publication
-title: "New journal paper published (Editor's Choice)"
+title: "Review paper on Generative AI and LLM applications for PSE (Editor's Choice)"
 links:
   - icon_pack: fas
     icon: scroll
