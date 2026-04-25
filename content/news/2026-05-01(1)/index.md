@@ -9,7 +9,7 @@ slides: example
 summary: "Prof. SungKu Heo has published a paper on offline RL for semiconductor wastewater treatment in the Journal of Water Process Engineering."
 tags:
 - Publication
-title: "Offline RL for semiconductor wastewater treatment (JCR: 6.5%, IF: 6.7)"
+title: "Offline RL control for semiconductor wastewater treatment (JCR: 6.5%, IF: 6.7)"
 links:
   - icon_pack: fas
     icon: scroll
