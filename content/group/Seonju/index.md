@@ -35,8 +35,8 @@ Author: <U>Seonju Kim</U>, SungKu Heo
 <br>
 Conference: KSIEC Fall Meeting and Conference, Daegu, Korea, 2025
 
-**[2. Multi-objective superstructure optimization 기반 지역별 통합 바이오 가스화 시설 최적 설계 방법론 개발]**
+**[2. Multi-objective superstructure optimization 기반 지역별 통합 바이오 가스화 시설 최적 설계 방법론 개발](https://drive.google.com/file/d/1ePsWfxAe1URnq_VwtuAKN4kY-ZLlk2yI/view?usp=drive_link)**
 <br>
 Author: <U>Seonju Kim</U>, SungKu Heo 
 <br>
-Conference: KIChE Spring Meeting and Conference, Jeju island, Korea, 2026
+Conference: KIChE Spring Meeting and Conferencse, Jeju island, Korea, 2026
