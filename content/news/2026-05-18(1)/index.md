@@ -1,19 +1,18 @@
 ---
-date: 2026-05-18
-publishDate: 2026-05-18
+date: 2026-04-03
+publishDate: 2026-04-03
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Sanggu and Seungjoon received the Second Prize Presentation Award for their research on multimedia behavior analysis of organic waste-derived VOCs. Their work was also invited for presentation at an international conference in Kanazawa, Japan."
+summary: "SeonJu was invited to present her research at both IWA WWCE and WIN 2026, two of the most prestigious international conferences in the water sector. Her work focuses on AI-driven autonomous soft-sensing and reliable N2O emissions monitoring in full-scale wastewater treatment plants."
 tags:
 - Team
-title: "🎉Sanggu and Seungjoon received 2nd presentation award and will visit Kanajawa Japan."
+title: "🎉SeonJu was invited to deliver oral presentations at both IWA WWCE and WIN 2026."
 links: []
 type: "news"
 layout: "single"
 ---
 
-Our 2025 interns, Sanggu and Seungjoon, received the Second Prize Presentation Award for their research on the multimedia behavior analysis of organic waste-derived volatile organic compounds (VOCs). Their study attracted significant attention for its innovative approach to understanding the environmental fate and transport of VOC emissions generated from co-digestion processes. In recognition of the quality and impact of their work, they were also invited to present their research at an international conference in Kanazawa, Japan. Please join us in congratulating Sanggu and Seungjoon on this outstanding achievement and exciting international opportunity. Go Sanggu and Seungjoon!
-
+SeonJu was invited to deliver oral presentations at both the IWA World Water Congress & Exhibition (WWCE) and WIN 2026, two of the most prestigious international conferences in the water sector. Her presentation, titled “Hybrid Transformer-driven Autonomous Soft-sensing System for N2O Emissions in a Full-scale Wastewater Treatment Plant: Sensor Fault Reconstruction, Quantification, and Self-recalibration” highlights  advanced AI-driven approaches for reliable greenhouse gas monitoring and autonomous environmental system management. SeonJu will deliver an oral presentation at IWA WIN 2026 in Delft, the Netherlands, one of the leading international conferences in the water sector. Go SeonJu!
