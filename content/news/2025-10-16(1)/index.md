@@ -9,8 +9,8 @@ image:
 slides: example
 summary: "The founding team (Taeyoon, Jeongun, Wonjae) received the encouragement prize in KOSAE for developing the M3-PMFormer spatio-temporal PM forecasting model."
 tags:
-- Activity
-title: "Our Lab's Founding team recives encouragement prize in KOSAE"
+- Team
+title: "🎉Our Lab's Founding team recives encouragement prize in KOSAE"
 links: []
 type: "news"
 layout: "single"
