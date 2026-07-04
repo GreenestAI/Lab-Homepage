@@ -9,7 +9,7 @@ slides: example
 summary: "Prof. SungKu Heo has published a review paper on interpretable realtime TN softsensor in the Water Research."
 tags:
 - Publication
-title: "Research paper on AI-driven interpretable realitme TN Softsensor"
+title: "AI-driven interpretable realitme TN Softsensor(IF=12.4, JCR 1.1%)"
 links:
   - icon_pack: fas
     icon: scroll
