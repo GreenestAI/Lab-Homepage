@@ -7,7 +7,7 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Prof. SungKu Heo was invited to talk “AI Transformation in Atmospheric Aerosol: Trace Pollutants Softsensing, HVAC Control, Nationwide Monitoring" at Korean association for particle and aerosol research (KAPAR), Korea."
+summary: 'Prof. SungKu Heo was invited to talk “AI Transformation in Atmospheric Aerosol: Trace Pollutants Softsensing, HVAC Control, Nationwide Monitoring" at Korean association for particle and aerosol research (KAPAR), Korea.'
 tags:
 - Activity
 title: "(Oral presentation) AI transformation in atmospheric aerosol: Softsensing, HVAC control, Nationwide monitoring"
