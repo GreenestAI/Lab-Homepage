@@ -6,7 +6,7 @@ image:
   caption: ""
   focal_point: Smart
 slides: example
-summary: "Prof. SungKu Heo has published a review paper on interpretable realtime TN softsensor in the Water Research."
+summary: "Prof. SungKu Heo (Corresponding author) has published a review paper on interpretable realtime TN softsensor in the Water Research."
 tags:
 - Publication
 title: "AI-driven interpretable realitme TN Softsensor(IF=12.4, JCR 1.1%)"
