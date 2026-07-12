@@ -10,7 +10,7 @@ slides: example
 summary: "SeonJu received the Conference Paper Award in KSEE for A multi-objective Superstructure Optimization Framework for Regional Biogasification Facilities Design Using Techno-economic and environmental Data."
 tags:
 - Team
-title: "🎉SeonJu recives conference paper award in KSEE"
+title: "🎉SeonJu recived conference paper award in KSEE"
 links: []
 type: "news"
 layout: "single"
