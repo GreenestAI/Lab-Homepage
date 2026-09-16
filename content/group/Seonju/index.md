@@ -31,19 +31,19 @@ AI, Process optimization, Autonomous design and process synthesis, Decarbonizati
 
 **[1. Water AI-ready data 기반 N₂O 소프트센싱 알고리즘 개발](https://drive.google.com/file/d/1PtWzRDfFsCfqVeHXAH6qSWhHvORaWJNS/view)**
 <br>
-Author: <U>Seonju Kim</U>, SungKu Heo 
+Author: <U>SeonJu Kim</U>, SungKu Heo 
 <br>
 Conference: KSIEC Fall Meeting and Conference, Daegu, Korea, 2025
 
 **[2. Multi-objective superstructure optimization 기반 지역별 통합 바이오 가스화 시설 최적 설계 방법론 개발](https://drive.google.com/file/d/1ePsWfxAe1URnq_VwtuAKN4kY-ZLlk2yI/view?usp=drive_link)**
 <br>
-Author: <U>Seonju Kim</U>, SungKu Heo 
+Author: <U>SeonJu Kim</U>, SungKu Heo 
 <br>
 Conference: KIChE Spring Meeting and Conferencse, Jeju island, Korea, 2026
 
 **[3. A Superstructure Optimization Framework for Regional Biogasification Facilities Design Using Techo·economic·environmental Data](https://drive.google.com/file/d/17bQzhhxyKkpsHBlCXr9QQPvXdYIAw7ZJ/view?usp=drive_link)**
 <br>
-Author: <U>Seonju Kim</U>, SeungJun Na, Sanggu Yun, SungKu Heo 
+Author: <U>SeonJu Kim</U>, SeungJun Na, SangGu Yun, SungKu Heo 
 <br>
 Conference: 2026 Specialist Group Workshop of the Korean Society of Environmental Engineers (KSEE)
 
@@ -53,6 +53,6 @@ Conference: 2026 Specialist Group Workshop of the Korean Society of Environmenta
 
 **1. Hybrid Transformer-driven autonomous soft-sensing system for N2O emissions in a full-scale wastewater treatment plant: Sensor fault reconstruction and quantification**
 <br>
-Author: <U>Seonju Kim</U>, SungKu Heo 
+Author: <U>SeonJu Kim</U>, SungKu Heo 
 <br>
 Conference: Water in Industry 2026
