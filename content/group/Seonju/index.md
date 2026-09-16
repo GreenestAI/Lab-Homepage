@@ -40,3 +40,19 @@ Conference: KSIEC Fall Meeting and Conference, Daegu, Korea, 2025
 Author: <U>Seonju Kim</U>, SungKu Heo 
 <br>
 Conference: KIChE Spring Meeting and Conferencse, Jeju island, Korea, 2026
+
+**[3. A Superstructure Optimization Framework for Regional Biogasification Facilities Design Using Techo·economic·environmental Data](https://drive.google.com/file/d/17bQzhhxyKkpsHBlCXr9QQPvXdYIAw7ZJ/view?usp=drive_link)**
+<br>
+Author: <U>Seonju Kim</U>, SeungJun Na, Sanggu Yun, SungKu Heo 
+<br>
+Conference: 2026 Specialist Group Workshop of the Korean Society of Environmental Engineers (KSEE)
+
+<!--more-->
+
+## Oral Presentations: ##
+
+**[1. Hybrid Transformer-driven autonomous soft-sensing system for N2O emissions in a full-scale wastewater treatment plant: Sensor fault reconstruction and quantification]**
+<br>
+Author: <U>Seonju Kim</U>, SungKu Heo 
+<br>
+Conference: Water in Industry 2026
