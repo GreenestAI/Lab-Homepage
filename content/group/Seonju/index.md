@@ -51,7 +51,7 @@ Conference: 2026 Specialist Group Workshop of the Korean Society of Environmenta
 
 ## Oral Presentations: ##
 
-**[1. Hybrid Transformer-driven autonomous soft-sensing system for N2O emissions in a full-scale wastewater treatment plant: Sensor fault reconstruction and quantification]**
+**1. Hybrid Transformer-driven autonomous soft-sensing system for N2O emissions in a full-scale wastewater treatment plant: Sensor fault reconstruction and quantification**
 <br>
 Author: <U>Seonju Kim</U>, SungKu Heo 
 <br>
