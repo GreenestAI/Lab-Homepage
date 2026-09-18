@@ -15,5 +15,5 @@ links: []
 type: "news"
 layout: "single"
 ---
-SeonJu Kim presented “M³-PMFormer: A Multimodal mapping transformer for citywide spatio-temporal PM forecasting in Korea” at AP-SDEWES 2026, Shenzhen, China. The presentation focused on the development of mulitmodal AI framework for predicting particulate matter (PM) dynamics across the South Korea, with emphasis on real-time and multi-step prediction of PM.
+SungKu Heo presented “M³-PMFormer: A Multimodal mapping transformer for citywide spatio-temporal PM forecasting in Korea” at AP-SDEWES 2026, Shenzhen, China. The presentation focused on the development of mulitmodal AI framework for predicting particulate matter (PM) dynamics across the South Korea, with emphasis on real-time and multi-step prediction of PM.
 
