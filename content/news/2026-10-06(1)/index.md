@@ -10,7 +10,7 @@ slides: example
 summary: "SeonJu Kim presented “AI-Assisted MILP-Based Multi-Scale Optimization for Process Design, Supply Chain, and Decarbonization Assessment of Integrated Biogas Plants” at the Korean Institute of Chemical Engineers (KIChE) 2026 Fall Meeting and International Symposium at BEXCO in Busan, Korea."
 tags:
 - Activity
-title: "(Oral Presentation) AI-Assisted MILP-Based Multi-Scale Optimization for Process Design, Supply Chain, and Decarbonization Assessment of Ingegrated Biogas Plants" 
+title: "(Oral Presentation) AI-Assisted MILP-Based Multi-Scale Optimization for Process Design, Supply Chain, and Decarbonization Assessment of Integrated Biogas Plants" 
 links: []
 type: "news"
 layout: "single"
