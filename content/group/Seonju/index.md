@@ -57,4 +57,10 @@ Conference: 2026 Specialist Group Workshop of the Korean Society of Environmenta
 <br>
 Author: <U>SeonJu Kim</U>, SungKu Heo 
 <br>
-Conference: Water in Industry 2026
+Conference: Water in Industry 2026, Delft, Netherlands.
+
+**2. AI-assisted MILP 기반 멀티스케일 최적화를 통한 바이오가스화 시설의 공정 설계, 공급망 및 탈탄소 기여도 평가**
+<br>
+Author: <U>SeonJu Kim</U>, SeungJun Na, SangGu Yun, SungKu Heo 
+<br>
+Conference: 2026 KIChE Fall Meeting and International Symposium, BUSAN BEXCO
