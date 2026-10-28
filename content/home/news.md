@@ -20,6 +20,7 @@ content:
     - name: Team
       tag: Team
   count: 3
+  page_size: 5
   offset: 0
 design:
   columns: '2'

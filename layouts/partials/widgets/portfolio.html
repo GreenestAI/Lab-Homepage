@@ -1,0 +1,166 @@
+{{/* Portfolio Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+{{ $view := $st.Params.design.view | default "masonry" }}
+
+{{/* Require Isotope */}}
+{{ $.Page.Store.Set "has_isotope" true }}
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+
+  {{ with $st.Content }}{{ . }}{{ end }}
+
+  {{ if $st.Params.content.filter_button }}
+
+    {{ $filter_default := default (int $st.Params.content.filter_default) 0 }}
+
+    {{/* Parse default filter tag from front matter in the form of either tag name or CSS class name. */}}
+    {{ $default_filter_tag_raw := (index $st.Params.content.filter_button ($filter_default)).tag }}
+    {{ $default_filter_tag := printf ".js-id-%s" (replace $default_filter_tag_raw " " "-") }}
+    {{ if or (eq (substr $default_filter_tag_raw 0 1) "*") (eq (substr $default_filter_tag_raw 0 1) ".") }}
+      {{ $default_filter_tag = $default_filter_tag_raw }}
+    {{ end }}
+
+    <span class="d-none default-project-filter">{{ $default_filter_tag }}</span>
+
+    {{/* Only show filter buttons if there are multiple filters. */}}
+    {{ if gt (len $st.Params.content.filter_button) 1 }}
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar {{if eq $columns "1"}}d-flex justify-content-center{{end}}">
+          <div class="btn-group flex-wrap">
+            {{ range $idx, $item := $st.Params.content.filter_button }}
+              {{/* Parse filter tag from front matter in the form of either tag name or CSS class name. */}}
+              {{ $data_filter := printf ".js-id-%s" (replace .tag " " "-") }}
+              {{ if or (eq (substr .tag 0 1) "*") (eq (substr .tag 0 1) ".") }}
+                {{ $data_filter = .tag }}
+              {{ end }}
+              <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
+
+  <div class="{{ if or $st.Params.content.filter_button (in (slice "masonry" 3) $view) }}isotope projects-container{{end}} {{if in (slice "masonry" 3) $view}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $view "showcase" }}project-showcase{{end}}">
+
+    {{/* Query */}}
+    {{ $query := site.Pages }}
+
+    {{/* Filters */}}
+    {{ with $st.Params.content.page_type }}
+      {{/* Legacy filter, superseded by `filters.folders` */}}
+      {{ $query = where $query "Type" . }}
+    {{ end }}
+    {{ with $st.Params.content.filters.folders }}
+      {{ $query = where $query "Section" "in" . }}
+    {{ end }}
+    {{ with $st.Params.content.filters.tags }}
+      {{ $query = where $query "Params.tags" "intersect" . }}
+    {{ end }}
+    {{ with $st.Params.content.filters.exclude_tags }}
+      {{ $query = $query | symdiff (where site.Pages "Params.tags" "intersect" .) }}
+    {{ end }}
+    {{ with ($st.Params.content.filters.kinds | default (slice "page")) }}
+      {{ $query = where $query "Kind" "in" . }}
+    {{ end }}
+
+    {{/* Sort */}}
+    {{ $sort_by := $st.Params.content.sort_by | default "Date" }}
+    {{ $sort_ascending := $st.Params.content.sort_ascending | default (eq $st.Params.content.order "asc") | default false }}
+    {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+    {{ $query = sort $query $sort_by $sort_order }}
+
+    {{ range $index, $item := $query }}
+      {{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+        {{ if in (slice "masonry" 3) $view }}
+          <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+        {{else}}
+          <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+        {{end}}
+        {{ partial "functions/render_view" (dict "page" $st "item" . "view" $view "index" $index) }}
+      </div>
+    {{end}}
+
+  </div>
+
+  {{/* Pagination (custom): set `content.page_size` in the widget front matter to enable. */}}
+  {{ with $st.Params.content.page_size }}
+  <nav class="portfolio-pager mt-4" data-page-size="{{ . }}" aria-label="Page navigation" hidden>
+    <ul class="pagination justify-content-center flex-wrap"></ul>
+  </nav>
+  <script>
+  (function () {
+    var pager = document.currentScript.previousElementSibling;
+    var section = pager.closest('section');
+    var container = section.querySelector('.projects-container');
+    var list = pager.querySelector('ul');
+    var pageSize = parseInt(pager.dataset.pageSize, 10);
+    var selector = '*';
+    var page = 1;
+
+    function render(iso) {
+      var items = Array.prototype.filter.call(container.querySelectorAll('.isotope-item'), function (el) {
+        return selector === '*' || el.matches(selector);
+      });
+      var pages = Math.max(1, Math.ceil(items.length / pageSize));
+      page = Math.min(Math.max(1, page), pages);
+      var visible = items.slice((page - 1) * pageSize, page * pageSize);
+      iso.arrange({filter: function (el) { return visible.indexOf(el || this) !== -1; }});
+
+      list.innerHTML = '';
+      function addItem(label, target, disabled, active) {
+        var li = document.createElement('li');
+        li.className = 'page-item' + (disabled ? ' disabled' : '') + (active ? ' active' : '');
+        var a = document.createElement('a');
+        a.className = 'page-link';
+        a.href = '#';
+        a.innerHTML = label;
+        a.addEventListener('click', function (e) {
+          e.preventDefault();
+          if (disabled || active) return;
+          page = target;
+          render(iso);
+          section.scrollIntoView({behavior: 'smooth'});
+        });
+        li.appendChild(a);
+        list.appendChild(li);
+      }
+      addItem('&laquo;', page - 1, page === 1, false);
+      for (var i = 1; i <= pages; i++) addItem(String(i), i, false, i === page);
+      addItem('&raquo;', page + 1, page === pages, false);
+      pager.hidden = pages <= 1;
+    }
+
+    function init() {
+      var iso = window.Isotope && Isotope.data(container);
+      if (!iso) return setTimeout(init, 100);
+      var defaultFilter = section.querySelector('.default-project-filter');
+      if (defaultFilter) selector = defaultFilter.textContent.trim();
+
+      // Take over the filter buttons (capture phase, before the theme's own handler)
+      // so tag filtering and paging combine.
+      var filters = section.querySelector('.project-filters');
+      if (filters) filters.addEventListener('click', function (e) {
+        var button = e.target.closest('a[data-filter]');
+        if (!button) return;
+        e.preventDefault();
+        e.stopPropagation();
+        selector = button.getAttribute('data-filter');
+        page = 1;
+        render(iso);
+        filters.querySelectorAll('a').forEach(function (b) { b.classList.remove('active', 'all'); });
+        button.classList.add('active');
+      }, true);
+      render(iso);
+    }
+    window.addEventListener('load', init);
+  })();
+  </script>
+  {{ end }}
+</div>
