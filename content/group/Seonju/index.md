@@ -18,8 +18,10 @@ links:
 type: "group"
 layout: "single"
 ---
-### Researcher (Integrated BS/MS course) ###
-B.S Environmental engineering, Kangwon National University (Expected in Aug. 2026).
+### Researcher (MS course) ###
+M.S Environmental engineering, Kangwon National University (Expected in Feb. 2028).
+<br>
+B.S Environmental engineering, Kangwon National University (Aug. 2026).
 
 **Research topic:**
 <br>
