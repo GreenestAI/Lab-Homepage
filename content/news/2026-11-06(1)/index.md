@@ -1,7 +1,7 @@
 ---
 date: 2026-11-06
 weight: 20
-publishDate: 2026-11-06
+publishDate: 2026-10-28
 external_link: ""
 image:
   caption: ""
